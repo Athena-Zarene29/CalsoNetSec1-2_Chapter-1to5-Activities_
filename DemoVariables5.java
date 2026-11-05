@@ -1,5 +1,5 @@
 
-package helloworld.variables;
+
 public class DemoVariables5 {
     public static void main(String[] args){
         int intNo = 296;

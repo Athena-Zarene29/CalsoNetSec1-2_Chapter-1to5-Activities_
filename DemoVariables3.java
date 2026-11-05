@@ -1,4 +1,4 @@
-package helloworld.variables;
+
 
 public class DemoVariables3 {
     public static void main(String[] args){

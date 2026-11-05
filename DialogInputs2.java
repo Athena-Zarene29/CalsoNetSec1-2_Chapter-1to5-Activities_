@@ -1,5 +1,5 @@
 
-package helloworld;
+
 
 import javax.swing.JOptionPane;
 public class DialogInputs2 {

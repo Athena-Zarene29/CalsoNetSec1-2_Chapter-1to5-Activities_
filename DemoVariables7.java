@@ -1,5 +1,5 @@
 
-package helloworld.variables;
+
 public class DemoVariables7 {
     public static void main(String[] args){
         int poly = (2 * 5 * 5) + (3 * 5) + 7;

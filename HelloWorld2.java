@@ -1,7 +1,4 @@
-//Filename HelloWorld2.java
-// Written by Athena Zarene P. Calso
-//Witten on August 15, 2026
-package helloworld;
+
 
 public class HelloWorld2
 /*This class demonstrated the use of print() and println()

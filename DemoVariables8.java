@@ -1,5 +1,5 @@
 
-package helloworld.variables;
+
 public class DemoVariables8 {
     public static void main(String[] args){
         int num1 = 1, num2 = 2, num3, num4;
